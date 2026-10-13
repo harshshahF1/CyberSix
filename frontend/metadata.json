@@ -1,0 +1,6 @@
+{
+  "name": "Department Inventory & Student Item Issue Management System",
+  "description": "Comprehensive university inventory management, asset tracking, 15-day student issue rules, renewals, returns, and reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
